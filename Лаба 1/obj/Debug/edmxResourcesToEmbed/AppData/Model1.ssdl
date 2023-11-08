@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище BazasuperModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="spravochniki">
+    <Key>
+      <PropertyRef Name="id_schet" />
+    </Key>
+    <Property Name="id_schet" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="full_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="aadress" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="uchetnaya">
+    <Key>
+      <PropertyRef Name="id_zapisi" />
+    </Key>
+    <Property Name="id_zapisi" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="id_litsscheta" Type="int" Nullable="false" />
+    <Property Name="month_of_payment" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="tarif" Type="int" Nullable="false" />
+    <Property Name="quantity_of_kvatt" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__uchetnaya__id_li__38996AB5">
+    <End Role="spravochniki" Type="Self.spravochniki" Multiplicity="1" />
+    <End Role="uchetnaya" Type="Self.uchetnaya" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="spravochniki">
+        <PropertyRef Name="id_schet" />
+      </Principal>
+      <Dependent Role="uchetnaya">
+        <PropertyRef Name="id_litsscheta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище BazasuperModelContainer">
+    <EntitySet Name="spravochniki" EntityType="Self.spravochniki" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="uchetnaya" EntityType="Self.uchetnaya" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__uchetnaya__id_li__38996AB5" Association="Self.FK__uchetnaya__id_li__38996AB5">
+      <End Role="spravochniki" EntitySet="spravochniki" />
+      <End Role="uchetnaya" EntitySet="uchetnaya" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

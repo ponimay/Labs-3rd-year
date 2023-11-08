@@ -1,0 +1,52 @@
+﻿<Page x:Class="Лаба_1.vyborkaPAge"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Лаба_1"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="vyborkaPAge">
+
+    <Grid Background="#FF832988" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="188*"/>
+            <RowDefinition Height="37*"/>
+        </Grid.RowDefinitions>
+        <ListView x:Name="filtratsiaLV" HorizontalContentAlignment="Stretch">
+            <ListView.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC964CE"/>
+                    <GradientStop Color="#FFF876FF" Offset="1"/>
+                </LinearGradientBrush>
+            </ListView.Background>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="20"/>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="3*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <TextBlock Text="{Binding id_schet }" FontFamily="Agency FB" FontSize="16"/>
+                        <TextBlock Grid.Column="1" Text="{Binding full_name}" FontFamily="Agency FB" FontSize="16"/>
+                        <TextBlock Grid.Column="2" Text="{Binding aadress}" FontFamily="Agency FB" FontSize="16"/>
+
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Button x:Name="vyborkaPage" Click ="vyborkaPage_Click" Grid.Row="1" Margin="10" HorizontalAlignment="Right" Width="150" FontFamily="Bahnschrift Condensed" FontSize="30" Background="White" Foreground="#FF832988">Назад</Button>
+        <ComboBox x:Name="SortCMB" Grid.Row="1" Margin="260,21,0,19" HorizontalAlignment="Left" Width="300" SelectionChanged="SortCMB_SelectionChanged" Foreground="Black">
+            <TextBlock Text="По умолчанию"/>
+            <TextBlock Text="От А до Я"/>
+            <TextBlock Text="От Я до А"/>
+        </ComboBox>
+        <TextBlock Text="Фильтрация" Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="110,0,0,0" FontFamily="Bahnschrift Condensed" FontSize="30" Foreground="White"/>
+    </Grid>
+</Page>

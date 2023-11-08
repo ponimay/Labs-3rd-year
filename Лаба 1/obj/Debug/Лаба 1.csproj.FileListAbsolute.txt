@@ -1,0 +1,194 @@
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe.config
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\Лаба 1.pdb
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\MainWindow.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\App.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1_Content.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.cache
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.lref
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\MainWindow.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.g.resources
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба_1.Properties.Resources.resources
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.GenerateResource.cache
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.exe
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\EntityFramework.dll
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\EntityFramework.xml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CopyComplete
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\Main.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select2.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select3.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select4.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\Main.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select2.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select3.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select4.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select5.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select5.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\Bazasuper.mdf
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\bin\Debug\Bazasuper_log.ldf
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select6.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\select6.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.baml
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.g.cs
+C:\Users\k2510\source\repos\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\Bazasuper.mdf
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\Bazasuper_log.ldf
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe.config
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\Лаба 1.pdb
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\EntityFramework.dll
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.dll
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\EntityFramework.xml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.xml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\bin\Debug\ru\EntityFramework.resources.dll
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.AssemblyReference.cache
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.SuggestedBindingRedirects.cache
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\Main.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\MainWindow.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select2.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select3.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select4.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select5.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select6.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\App.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1_Content.g.cs
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.cache
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.lref
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\Main.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\MainWindow.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select2.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select3.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select4.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select5.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\select6.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.baml
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.g.resources
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба_1.Properties.Resources.resources
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.GenerateResource.cache
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CoreCompileInputs.cache
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CopyComplete
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.exe
+F:\МоДуЛи\самая новая\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\Bazasuper.mdf
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\Bazasuper_log.ldf
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe.config
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\Лаба 1.exe
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\Лаба 1.pdb
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\EntityFramework.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\EntityFramework.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.AssemblyReference.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\Main.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\MainWindow.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select2.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select3.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select4.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select5.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select6.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\App.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1_Content.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1_MarkupCompile.lref
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\DATA_PARA_BAZ.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\dobavleniePage.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\FiltrFIOiTARIF.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\Main.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\MainWindow.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetyPage.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\Page1.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\poisk Page.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\poiskFIO.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select2.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select3.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select4.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select5.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select6.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\SortLisc.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\vyborkaPAge.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\vychisleniePage.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.g.resources
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба_1.Properties.Resources.resources
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.GenerateResource.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.CopyComplete
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.exe
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.pdb
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select7.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\select7.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Лаба 1.csproj.ResolveComReference.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetPDF.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\itextsharp.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\itextsharp.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetPDF.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\dobavlenieUchetnaya.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\uchetnayaPage.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\dobavlenieUchetnaya.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\uchetnayaPage.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetPosledniy.g.cs
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\obj\Debug\Pages\otchetPosledniy.baml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\System.Drawing.Common.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1\bin\Debug\System.Drawing.Common.xml

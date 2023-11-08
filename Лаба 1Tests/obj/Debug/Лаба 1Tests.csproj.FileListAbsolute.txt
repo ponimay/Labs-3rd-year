@@ -1,0 +1,32 @@
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Bazasuper.mdf
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Bazasuper_log.ldf
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Лаба 1Tests.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Лаба 1Tests.pdb
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Лаба 1.exe
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\itextsharp.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\EntityFramework.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Лаба 1.pdb
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Лаба 1.exe.config
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\itextsharp.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\EntityFramework.xml
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\obj\Debug\Лаба 1Tests.csproj.AssemblyReference.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\obj\Debug\Лаба 1Tests.csproj.CoreCompileInputs.cache
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\obj\Debug\Лаба 1Tests.csproj.CopyComplete
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\obj\Debug\Лаба 1Tests.dll
+C:\Users\k2510\.VirtualBox\Лаба 1\Лаба 1Tests\obj\Debug\Лаба 1Tests.pdb

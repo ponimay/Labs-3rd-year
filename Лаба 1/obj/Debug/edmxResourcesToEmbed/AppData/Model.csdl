@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="spravochniki">
+    <Key>
+      <PropertyRef Name="id_schet" />
+    </Key>
+    <Property Name="id_schet" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="full_name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="aadress" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="uchetnaya" Relationship="Database1Model.FK__uchetnaya__id_li__4222D4EF" FromRole="spravochniki" ToRole="uchetnaya" />
+  </EntityType>
+  <EntityType Name="uchetnaya">
+    <Key>
+      <PropertyRef Name="id_zapisi" />
+    </Key>
+    <Property Name="id_zapisi" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="id_litsscheta" Type="Int32" Nullable="false" />
+    <Property Name="month_of_payment" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="tarif" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="quantity_of_kvatt" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="spravochniki" Relationship="Database1Model.FK__uchetnaya__id_li__4222D4EF" FromRole="uchetnaya" ToRole="spravochniki" />
+  </EntityType>
+  <EntityContainer Name="Database1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="spravochniki" EntityType="Self.spravochniki" />
+    <EntitySet Name="uchetnaya" EntityType="Self.uchetnaya" />
+    <AssociationSet Name="FK__uchetnaya__id_li__4222D4EF" Association="Database1Model.FK__uchetnaya__id_li__4222D4EF">
+      <End Role="spravochniki" EntitySet="spravochniki" />
+      <End Role="uchetnaya" EntitySet="uchetnaya" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK__uchetnaya__id_li__4222D4EF">
+    <End Type="Database1Model.spravochniki" Role="spravochniki" Multiplicity="1" />
+    <End Type="Database1Model.uchetnaya" Role="uchetnaya" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="spravochniki">
+        <PropertyRef Name="id_schet" />
+      </Principal>
+      <Dependent Role="uchetnaya">
+        <PropertyRef Name="id_litsscheta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище Database1ModelContainer" CdmEntityContainer="Database1Entities">
+    <EntitySetMapping Name="spravochniki">
+      <EntityTypeMapping TypeName="Database1Model.spravochniki">
+        <MappingFragment StoreEntitySet="spravochniki">
+          <ScalarProperty Name="id_schet" ColumnName="id_schet" />
+          <ScalarProperty Name="full_name" ColumnName="full_name" />
+          <ScalarProperty Name="aadress" ColumnName="aadress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="uchetnaya">
+      <EntityTypeMapping TypeName="Database1Model.uchetnaya">
+        <MappingFragment StoreEntitySet="uchetnaya">
+          <ScalarProperty Name="id_zapisi" ColumnName="id_zapisi" />
+          <ScalarProperty Name="id_litsscheta" ColumnName="id_litsscheta" />
+          <ScalarProperty Name="month_of_payment" ColumnName="month_of_payment" />
+          <ScalarProperty Name="tarif" ColumnName="tarif" />
+          <ScalarProperty Name="quantity_of_kvatt" ColumnName="quantity_of_kvatt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
